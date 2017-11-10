@@ -8,7 +8,7 @@ export default class Clicker extends React.Component {
   
    render() {
      return (
-       <button onClick={this.handleClick}>Click me!</button>
+       <button onClick={this.handleClick}>Click counter!</button>
      );
    }
  }
